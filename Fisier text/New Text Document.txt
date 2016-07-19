@@ -1,2 +1,2 @@
 Learn Git
-2 part
+1 practice
